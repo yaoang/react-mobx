@@ -16,6 +16,6 @@ React其实是一个UI层面的库，采用虚拟DOM方式，所以只是使用R
 
 应该说，React也定义一种开发规范。
 
-##Mobx入门
-###Mobx的功能
-React-Mobx主要功能是利用Mobx库进行React组件状态的管理。
+##Mobx入门  
+###Mobx的功能  
+React-Mobx主要功能是利用Mobx库进行React组件状态的管理。  
