@@ -101,21 +101,21 @@ server.listen(3002, function(err) {
 
 2. Privider
 
-   ```javascript
-   import { Router } from 'react-router'
+```javascript
+import { Router } from 'react-router'
    
-   class Root extends Component {
-     render() {
-       return (
-         <div>
-           <Provider {...store}>
-             <Router routes={routes} history={browserHistory} />
-           </Provider>
-         </div>
-       )
-     }
-   }
-   ```
+class Root extends Component {
+  render() {
+    return (
+      <div>
+        <Provider {...store}>
+          <Router routes={routes} history={browserHistory} />
+        </Provider>
+      </div>
+    )
+  }
+}
+```
 
    
 
