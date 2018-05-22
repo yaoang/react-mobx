@@ -21,11 +21,11 @@ React其实是一个UI层面的库，采用虚拟DOM方式，所以只是使用R
 1. 首先，为了更省事地生成React，最好安装一个工具————yo  
 	```
 	npm install -g yo
-	```  
+	```
 2. 其次，安装yo的React-mobx生成器  
 	```
 	npm install -g generator-mobx-react
-	```  
+	```
 3. 使用yo生成React-mobx项目  
 	```
 	yo mobx-react  
@@ -34,3 +34,10 @@ React其实是一个UI层面的库，采用虚拟DOM方式，所以只是使用R
 ##Mobx入门  
 ###Mobx的功能  
 React-Mobx主要功能是利用Mobx库进行React组件状态(**state**)的管理。  
+
+看个简单的Simple。很快就能开发一个项目。
+
+[ReactJS Mobx Simple Project](ReactJS_Mobx.md)
+
+
+
