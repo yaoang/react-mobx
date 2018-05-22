@@ -280,4 +280,7 @@ npm run build
 
 p.s.
 
-下次我们研究如何进行Unit Test。
+下次我们研究如何进行[^Unit Test]。
+
+[^单元测试]: ReactJS_Test.md
+
