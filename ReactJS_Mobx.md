@@ -1,4 +1,4 @@
-#ReactJS + Mobx项目简单搭建
+# ReactJS + Mobx项目简单搭建
 
 1. Server & Mock
 
