@@ -23,7 +23,7 @@ const port = process.env.PORT || 12780;
 const app = express()
 app.use(compress())
 
-const domainHost = 'http://iam.westus.cloudapp.azure.com'
+const domainHost = 'http://******.azure.com'
 app.use(
   '/remote',
   proxy(url.parse(${domainHost}:27020))
