@@ -48,3 +48,4 @@ React其实是一个UI层面的库，采用虚拟DOM方式，所以只是使用R
 
 [ReactJS Unit Test](ReactJS_Test.md)
 
+[Code Re-Factoring](Re-Factoring.md)
